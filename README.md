@@ -1,5 +1,7 @@
 # Life Line Lab Assessment - Random User Generator
 
+This app will respond with a random user picked from a pool of predefined users.
+
 ## Usage
 
 1. Clone repo and install dependency.

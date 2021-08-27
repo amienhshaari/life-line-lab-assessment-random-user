@@ -43,6 +43,7 @@ async function main() {
     for (let i = 0; i < users.length; i++) {
       await users[i].save();
     }
+    console.info('Created 10 users!');
   } else {
     console.error('Users already initiated!');
   }
