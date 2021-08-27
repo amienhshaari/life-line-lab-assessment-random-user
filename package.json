@@ -1,0 +1,17 @@
+{
+  "name": "life-line-lab-assessment-random-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init-database": "node ./util/initDatabase",
+    "start": "node ./index"
+  },
+  "author": "Amien H. Sha'ari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  }
+}
